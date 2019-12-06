@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/App.scss"],"names":[],"mappings":";AACA;AACA;AACA;;;AAGA;;;AAGA;AACA;AACA;AACA","file":"style.11d99a80ae2d32d372df.css","sourcesContent":["\n.title {\n    color: palevioletred \n}\n\n\n@media (max-width: 500px) {\n\n\n.title_title {\n            color: blue\n    }\n        }\n"],"sourceRoot":""}

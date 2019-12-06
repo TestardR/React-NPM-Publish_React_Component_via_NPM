@@ -1,0 +1,13 @@
+
+.title {
+    color: palevioletred 
+}
+
+
+.title {
+    &_title {
+        @media (max-width: 500px) {
+            color: blue;
+        }
+    }
+}
